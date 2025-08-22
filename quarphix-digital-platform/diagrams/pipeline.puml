@@ -1,0 +1,12 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+
+start
+:SetupGlobalResources;
+:Setup Tenants;
+:Setup Flex Environment;
+:Setup Prod Environment;
+
+stop
+
+@enduml
