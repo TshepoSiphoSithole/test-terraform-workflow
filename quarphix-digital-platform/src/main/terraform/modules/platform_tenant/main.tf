@@ -1,4 +1,0 @@
-locals {
-  repo_principals = []
-}
-
